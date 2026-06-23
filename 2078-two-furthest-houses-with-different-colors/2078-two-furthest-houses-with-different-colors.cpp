@@ -19,7 +19,6 @@ public:
                 break;
             }
         }
-        cout << left << " : " << right;
         return max(left, right);
     }
 };
