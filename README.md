@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2766-relocate-marbles](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2766-relocate-marbles) |
+| [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3731-find-missing-elements](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [2766-relocate-marbles](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2766-relocate-marbles) |
+| [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3731-find-missing-elements](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
