@@ -43,4 +43,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2769-find-the-maximum-achievable-number](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2769-find-the-maximum-achievable-number) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
