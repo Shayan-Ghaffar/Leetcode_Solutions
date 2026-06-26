@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 ## Dynamic Programming
 |  |
 | ------- |
