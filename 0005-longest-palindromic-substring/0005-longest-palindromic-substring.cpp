@@ -3,13 +3,26 @@ public:
     string longestPalindrome(string s) {
         int size = INT_MIN;
         string longest;
+        unordered_map<int, int> m;
         int N = s.length();
         for(int i = 0; i < N;i++)
         {
             for(int j = i; j < N;j++)
             {
-                if(isPalindrome(s, i, j))
+                if(m.count(i) && m[i] == j)
                 {
+                    if(j - i + 1 > size)
+                    {
+                        size = j - i + 1;
+                        longest.resize(j-i+1);
+                        int m = i;
+                        for(int k = 0; k < j - i + 1;k++,m++)
+                            longest[k] = s[m];
+                    }
+                }
+                else if(isPalindrome(s, i, j))
+                {
+                    m[i] = j;
                     if(j - i + 1 > size)
                     {
                         size = j - i + 1;
