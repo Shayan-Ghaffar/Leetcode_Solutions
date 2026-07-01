@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2766-relocate-marbles](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2766-relocate-marbles) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0075-sort-colors) |
 ## Divide and Conquer
 |  |
 | ------- |
