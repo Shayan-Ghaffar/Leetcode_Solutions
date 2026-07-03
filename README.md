@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0075-sort-colors) |
+| [1720-decode-xored-array](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1720-decode-xored-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3467-transform-array-by-parity](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1720-decode-xored-array](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1720-decode-xored-array) |
 <!---LeetCode Topics End-->
