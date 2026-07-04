@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Dynamic Programming
 |  |
 | ------- |
