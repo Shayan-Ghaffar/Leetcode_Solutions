@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2766-relocate-marbles](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2766-relocate-marbles) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3467-transform-array-by-parity](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3467-transform-array-by-parity) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
