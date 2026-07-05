@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3941-password-strength](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3941-password-strength) |
 ## Sorting
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3941-password-strength](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3941-password-strength) |
 ## Dynamic Programming
 |  |
 | ------- |
