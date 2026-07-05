@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3895-count-digit-appearances](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3895-count-digit-appearances) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## String
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Simulation
 |  |
 | ------- |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2769-find-the-maximum-achievable-number) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3895-count-digit-appearances](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3895-count-digit-appearances) |
 ## Tree
 |  |
