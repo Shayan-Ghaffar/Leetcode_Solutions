@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0075-sort-colors) |
+| [0973-k-closest-points-to-origin](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1720-decode-xored-array](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1720-decode-xored-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0075-sort-colors) |
+| [0973-k-closest-points-to-origin](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2766-relocate-marbles](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2766-relocate-marbles) |
 | [3467-transform-array-by-parity](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3467-transform-array-by-parity) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [2396-strictly-palindromic-number](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [3719-longest-balanced-subarray-i](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
 |  |
@@ -168,4 +172,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2396-strictly-palindromic-number) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
