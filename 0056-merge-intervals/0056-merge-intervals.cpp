@@ -6,6 +6,8 @@ public:
         });
         int start = intervals[0][0], end = intervals[0][1];
         vector<vector<int>> res;
+        res.reserve(intervals.size());
+        int k = 0;
         vector<int> j(2, -1);
         for(int i = 1; i < intervals.size();i++)
         {
