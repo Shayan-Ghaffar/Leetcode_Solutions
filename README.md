@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0620-not-boring-movies) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Counting Sort
 |  |
 | ------- |
