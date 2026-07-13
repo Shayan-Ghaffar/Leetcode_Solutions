@@ -240,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0419-battleships-in-a-board](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0419-battleships-in-a-board) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
