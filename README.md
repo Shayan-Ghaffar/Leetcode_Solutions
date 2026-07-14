@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1143-longest-common-subsequence](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0494-target-sum) |
@@ -263,5 +265,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
