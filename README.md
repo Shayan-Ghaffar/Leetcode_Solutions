@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0419-battleships-in-a-board](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0542-01-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0542-01-matrix) |
 | [1143-longest-common-subsequence](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -258,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
