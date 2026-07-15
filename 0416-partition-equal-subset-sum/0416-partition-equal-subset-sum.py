@@ -5,7 +5,7 @@ class Solution:
             su = su + i
         if su % 2 == 1:
             return False
-        half = su // 2
+        half = su / 2
         curr = 0
         @cache
         def knapSack(i, curr):
