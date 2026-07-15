@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0542-01-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1288-remove-covered-intervals](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1720-decode-xored-array](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1720-decode-xored-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0419-battleships-in-a-board](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0419-battleships-in-a-board) |
+| [1020-number-of-enclaves](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -215,11 +217,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0542-01-matrix](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
+| [1020-number-of-enclaves](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 ## Enumeration
 |  |
 | ------- |
