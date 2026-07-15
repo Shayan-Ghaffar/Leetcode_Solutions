@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0416-partition-equal-subset-sum](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0494-target-sum) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0416-partition-equal-subset-sum](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0542-01-matrix) |
