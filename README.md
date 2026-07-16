@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0075-sort-colors) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -160,10 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Two Pointers
 |  |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
