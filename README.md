@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
