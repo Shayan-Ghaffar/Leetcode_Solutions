@@ -17,7 +17,7 @@ public:
         for(int i: nums)
         {
            sum = max(i, sum + i);
-           maxSum = max(sum, maxSum);
+           minSum = max(sum, minSum);
         }
         return max(minSum, maxSum);
     }
