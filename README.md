@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0416-partition-equal-subset-sum](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0419-battleships-in-a-board](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
