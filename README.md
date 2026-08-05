@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0416-partition-equal-subset-sum](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0869-reordered-power-of-2](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0869-reordered-power-of-2) |
@@ -384,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
