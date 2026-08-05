@@ -53,7 +53,7 @@ public:
             return res;
         }
         for (int i = 0; i < n; i++) {
-            if (!outCon[i] && color[i] == 1)
+            if (color[i] == 1)
                 continue;
             res.push_back(i);
         }
