@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1140-stone-game-ii](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1288-remove-covered-intervals) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1406-stone-game-iii](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0869-reordered-power-of-2) |
 | [0877-stone-game](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1140-stone-game-ii](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2396-strictly-palindromic-number) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -402,9 +406,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0062-unique-paths) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
