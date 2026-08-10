@@ -3,16 +3,17 @@ public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
         vector<vector<string>> res;
         unordered_map<string, vector<string>> mapo;
-        for (int i = 0; i < strs.size(); i++) 
+        vector<string> patterns;
+        for(auto i: strs)
         {
-            string s = strs[i];
+            string s = i;
             sort(s.begin(), s.end());
-            mapo[s].push_back(strs[i]);
+            patterns.push_back(s);
         }
+        for (int i = 0; i < strs.size(); i++) 
+            mapo[patterns[i]].push_back(strs[i]);
         for(auto i: mapo)
-        {
             res.push_back(i.second);
-        }
         return res;
     }
 };
