@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0169-majority-element) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0169-majority-element) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
