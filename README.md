@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1406-stone-game-iii](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2769-find-the-maximum-achievable-number) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 ## Combinatorics
 |  |
 | ------- |
@@ -416,8 +419,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
