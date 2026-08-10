@@ -2,8 +2,10 @@ class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
         vector<vector<string>> res;
+        res.reserve(strs.size());
         unordered_map<string, vector<string>> mapo;
         vector<string> patterns;
+        patterns.reserve(strs.size());
         for(auto i: strs)
         {
             string s = i;
