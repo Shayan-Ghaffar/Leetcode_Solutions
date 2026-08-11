@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2766-relocate-marbles](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2766-relocate-marbles) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2766-relocate-marbles](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2766-relocate-marbles) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2766-relocate-marbles](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2766-relocate-marbles) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3467-transform-array-by-parity](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
