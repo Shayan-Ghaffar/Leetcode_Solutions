@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1563-stone-game-v) |
 | [1631-path-with-minimum-effort](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1720-decode-xored-array](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1720-decode-xored-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1406-stone-game-iii](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1563-stone-game-v) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 | [2396-strictly-palindromic-number](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2396-strictly-palindromic-number) |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 ## Combinatorics
 |  |
