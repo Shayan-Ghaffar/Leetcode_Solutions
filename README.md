@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3467-transform-array-by-parity) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3719-longest-balanced-subarray-i) |
