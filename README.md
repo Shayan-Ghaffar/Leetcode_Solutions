@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 | [2396-strictly-palindromic-number](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2769-find-the-maximum-achievable-number) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1720-decode-xored-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Breadth-First Search
 |  |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1631-path-with-minimum-effort](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
@@ -409,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -451,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0062-unique-paths) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Minimax
 |  |
 | ------- |
