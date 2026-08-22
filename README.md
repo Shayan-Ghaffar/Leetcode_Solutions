@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0127-word-ladder) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0126-word-ladder-ii) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
