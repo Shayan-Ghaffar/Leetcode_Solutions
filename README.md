@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
