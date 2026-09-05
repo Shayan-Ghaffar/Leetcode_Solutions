@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3895-count-digit-appearances) |
+| [3904-smallest-stable-index-ii](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Shayan-Ghaffar/Leetcode_Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Database
 |  |
 | ------- |
